@@ -2,25 +2,25 @@
   {
     "version": "0.0.1",
     "date": "2025-01-01",
-    "url": "",
+    "url": "https://github.com/schl3ck/scripting-update-test/archive/refs/tags/v0.0.1.zip",
     "notes": "Initial release"
   },
   {
     "version": "0.0.2",
     "date": "2025-02-01",
-    "url": "",
+    "url": "https://github.com/schl3ck/scripting-update-test/archive/refs/tags/v0.0.2.zip",
     "notes": "- test\n- for\n- a\n- list"
   },
   {
     "version": "0.2",
     "date": "2025-03-01",
-    "url": "",
+    "url": "https://github.com/schl3ck/scripting-update-test/archive/refs/tags/v0.2.zip",
     "notes": "major changes"
   },
   {
     "version": "1.0",
     "date": "2025-04-01",
-    "url": "",
-    "notes": ""
+    "url": "https://github.com/schl3ck/scripting-update-test/archive/refs/tags/v1.0.zip",
+    "notes": "full release"
   }
 ]
