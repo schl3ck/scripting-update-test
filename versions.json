@@ -4,5 +4,11 @@
     "date": "2025-01-01",
     "url": "",
     "notes": "Initial release"
+  },
+  {
+    "version": "0.0.2",
+    "date": "2025-02-01",
+    "url": "",
+    "notes": "- test\n- for\n- a\n- list"
   }
 ]
