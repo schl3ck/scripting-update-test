@@ -10,5 +10,11 @@
     "date": "2025-02-01",
     "url": "",
     "notes": "- test\n- for\n- a\n- list"
+  },
+  {
+    "version": "0.2",
+    "date": "2025-03-01",
+    "url": "",
+    "notes": "major changes"
   }
 ]
